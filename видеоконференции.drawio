@@ -111,7 +111,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V3BmLKb4HxRfx5gESarR-99" value="&lt;div&gt;поддерживает&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V3BmLKb4HxRfx5gESarR-98" vertex="1" connectable="0">
+        <mxCell id="V3BmLKb4HxRfx5gESarR-99" value="&lt;div&gt;&lt;span&gt;поддерживает&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="V3BmLKb4HxRfx5gESarR-98" vertex="1" connectable="0">
           <mxGeometry x="0.1" y="1" relative="1" as="geometry">
             <mxPoint x="-41" y="-40" as="offset" />
           </mxGeometry>
